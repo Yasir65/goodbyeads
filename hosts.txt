@@ -3,7 +3,7 @@
 #         Last updated: Tue, 06 Apr 21 05:07:38 +0000      #
 
 
-0.0.0.0  localhost
+127.0.0.1  localhost
 # This MVPS HOSTS file is a free download from:            #
 # http://winhelp2002.mvps.org/hosts.htm                    #
 #                                                          #
@@ -27,7 +27,7 @@
 #                                                          #
 # License info for commercial purposes contact Winhelp2002 #
 
-0.0.0.0 localhost
+127.0.0.1 localhost
 
 ::1 localhost #[IPv6]
 
@@ -13677,9 +13677,9 @@
 #
 # ===============================================================
 
-0.0.0.0 localhost
-0.0.0.0 localhost.localdomain
-0.0.0.0 local
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
@@ -117889,7 +117889,7 @@ ff02::3 ip6-allhosts
 # Create an issue at https://github.com/AdAway/adaway.github.io/issues
 #
 
-0.0.0.0  localhost
+127.0.0.1  localhost
 ::1  localhost
 
 # [163.com]
